@@ -1,3 +1,5 @@
+# examples derived from https://www.nltk.org
+
 import nltk
 nltk.download('averaged_perceptron_tagger_eng')
 
