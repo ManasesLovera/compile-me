@@ -13,7 +13,7 @@ print(tokens)
 tagged = nltk.pos_tag(tokens)
 print(tagged[0:6])
 
-
+# examples derived from https://spacy.io/usage/spacy-101
 import spacy
 
 nlp = spacy.load("en_core_web_sm")
