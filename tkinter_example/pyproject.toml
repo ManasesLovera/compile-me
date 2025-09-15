@@ -5,3 +5,8 @@ requires-python = ">=3.12"
 dependencies = [
     "customtkinter>=5.2.2",
 ]
+
+[dependency-groups]
+dev = [
+    "nuitka>=2.7.14",
+]
