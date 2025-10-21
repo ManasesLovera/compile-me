@@ -1,7 +1,7 @@
 [project]
 name = "nlp-example"
 version = "0.1.0"
-requires-python = ">=3.13"
+requires-python = ">=3.12"
 dependencies = [
     "en-core-web-sm",
     "nltk>=3.9.1",

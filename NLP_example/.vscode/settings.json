@@ -1,0 +1,8 @@
+{
+    "python.defaultInterpreterPath": ".venv/bin/python",  // For Linux/macOS
+    "python.analysis.extraPaths": [
+        "./.venv/lib/python3.12/site-packages"
+    ]
+    // If you are on Windows, you would use:
+    // "python.defaultInterpreterPath": ".venv/Scripts/python.exe"
+}
